@@ -9,11 +9,15 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
  
-#Chick Weight Data 
+ 
+#Chick Weight Data
+
+Summary of Chick Weight Data 
 
 ```{r CWsum}
 summary(ChickWeight)
 ```
+
 
 #Chick Weight Plot
 ```{r CWplot}
